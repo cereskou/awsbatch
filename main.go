@@ -37,7 +37,7 @@ func main() {
 	}
 
 	if opts.Version {
-		fmt.Printf("DMP submit tool %v\n", version)
+		fmt.Printf("AWS batch submit tool %v\n", version)
 		os.Exit(0)
 	}
 
