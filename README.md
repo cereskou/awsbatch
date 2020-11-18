@@ -25,4 +25,4 @@ Help Options:
 ### command
 Please check bt400-prod.cmd.
 <br>
-bt400 is a batch to dump database to dumpfile.
+bt400 is a batch to dump postgresql database to file.
